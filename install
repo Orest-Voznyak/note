@@ -2,3 +2,5 @@ https://medium.com/@kinduff/automatic-version-switch-for-nvm-ff9e00ae67f3
 https://www.sitepoint.com/quick-tip-multiple-versions-node-nvm/
 https://github.com/nvm-sh/nvm
 https://fornex.com/help/install-nodejs-ubuntu/
+nvm ls
+npm -v
