@@ -27,4 +27,17 @@ load-nvmrc
 nvm ls
 npm -v
 
+============22.How to install and delete libraries====
+npm list
+npm -g list - глобально встановлені пакети
+
+https://docs.npmjs.com/cli/install - командидля встановлення із ключами
+https://www.tutorialsteacher.com/nodejs/what-is-node-package-manager
+
+npm install express - Install Package Locally
+npm install -g express -Install Package Globally
+
+npm uninstall express - Uninstall Packages
+
+
 
